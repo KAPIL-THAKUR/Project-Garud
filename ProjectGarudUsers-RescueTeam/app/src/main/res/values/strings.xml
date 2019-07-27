@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project Garud</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="City">
+        <item>Search</item>
+        <item>Delhi</item>
+        <item>Ghaziabad</item>
+        <item>Greater Noida</item>
+        <item>Noida</item>
+    </string-array>
+
+    <string-array name="UserInCity">
+        <item>All User</item>
+        <item>Delhi</item>
+        <item>Ghaziabad</item>
+        <item>Greater Noida</item>
+        <item>Noida</item>
+    </string-array>
+
+</resources>
