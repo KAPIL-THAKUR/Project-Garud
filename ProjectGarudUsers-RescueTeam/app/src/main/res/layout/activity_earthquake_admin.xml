@@ -12,7 +12,7 @@
         android:layout_height="415dp"
         android:layout_alignParentRight="true"
         android:layout_marginBottom="15dp"
-        app:layout_constraintBottom_toTopOf="@+id/textView4"
+        app:layout_constraintBottom_toTopOf="@+id/textView14"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
 
